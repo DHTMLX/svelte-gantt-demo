@@ -10,7 +10,8 @@ yarn start
 ```
 
 ## Useful links
-
+- **[Online demo](https://replit.com/@dhtmlx/dhtmlx-gantt-with-svelte)**
+- [More demos about the DHTMLX Event Calendar functionality](https://snippet.dhtmlx.com/m48fbpqx?tag=gantt&mode=wide)
 - [Technical support ](https://forum.dhtmlx.com/c/gantt)
 - [Online  documentation](https://docs.dhtmlx.com/gantt/)
 
