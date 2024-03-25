@@ -2,12 +2,16 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
+![DHTMLX Gantt with Svelte Demo](https://raw.githubusercontent.com/DHTMLX/svelte-gantt-demo/master/gantt.png)
+
 ## How to start
 
 ```
 yarn 
 yarn start
 ```
+
+You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository) to run online.
 
 ## Useful links
 - **[Online demo](https://replit.com/@dhtmlx/dhtmlx-gantt-with-svelte)**
