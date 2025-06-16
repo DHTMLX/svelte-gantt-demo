@@ -10,6 +10,8 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DHTMLX/svelte-gantt-demo) 
 
+**Please note**, having clicked on this button, you open the **online demo. Don't worry about paying extra!** With GitHub's free plan, [you get 15 GB of storage and 120 hours of Codespaces use each month](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts). This is more than enough to run our demo without any extra costs.
+
 ### On the local host 
 
 Clone the repository or download files.
@@ -27,7 +29,6 @@ npm run start
 ```
 
 ## Useful links
-- **[Online demo](https://replit.com/@dhtmlx/dhtmlx-gantt-with-svelte)**
 - [Learn about DHTMLX Gantt](https://dhtmlx.com/docs/products/dhtmlxGantt/)
 - [More demos about the DHTMLX Gantt functionality](https://docs.dhtmlx.com/gantt/samples)
 - [Technical support ](https://forum.dhtmlx.com/c/gantt)
